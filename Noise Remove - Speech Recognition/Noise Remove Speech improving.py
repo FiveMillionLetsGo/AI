@@ -1,3 +1,5 @@
+# 주석으로 설명한 version 
+
 # 수치 계산 라이브러리
 import numpy as np
 # 음성 인식 라이브러리
